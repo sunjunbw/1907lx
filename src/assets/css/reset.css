@@ -1,0 +1,18 @@
+body,html,ul,ol,h1,h2,p,h3{
+	margin:0;
+}
+/*#app{
+	font-size: 16px!important;
+}*/
+ul,ol{
+	padding:0;
+	list-style: none;
+}
+img{
+	border:none;
+	display: block;
+}
+a{
+	text-decoration: none;
+	color:#000;
+}
